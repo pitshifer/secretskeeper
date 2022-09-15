@@ -10,7 +10,7 @@ import (
 
 const (
 	SecretsFilePathDefault = "./secrets.json"
-	CommandDefault = "left"
+	CommandDefault = "up"
 )
 
 var secretsFilePath string
